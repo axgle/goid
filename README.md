@@ -13,8 +13,7 @@ example
     import (
     	"fmt"
     	"time"
-    
-    	"github.com/funny/goid"
+    	"github.com/axgle/goid"
     )
     
     func main() {
